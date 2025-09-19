@@ -1,2 +1,2 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://fr.linkedin.com/in/marouane-daoudi-21089a178)](https://fr.linkedin.com/in/marouane-daoudi-21089a178)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marouane-daoudi-21089a178/)
 ### Marouane Daoudi
