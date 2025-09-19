@@ -1,2 +1,2 @@
-[![LinkedIn](https://img.shields.io/badge/Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marouane-daoudi-21089a178/)
+[<img src="linkedin-button.svg" width="320" alt="LinkedIn - Marouane Daoudi">](https://www.linkedin.com/in/marouane-daoudi-21089a178/)
 ### Marouane Daoudi
